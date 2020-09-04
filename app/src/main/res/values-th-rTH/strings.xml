@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="cd">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="day">วัน</string>
+    <string name="hour">ชั่วโมง</string>
+    <string name="min">นาที</string>
+    <string name="sec">วินาที</string>
+    <string name="button">ถัดไป</string>
+</resources>

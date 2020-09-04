@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="cd">Count Down To Election Day</string>
+    <string name="day">Days</string>
+    <string name="hour">Hours</string>
+    <string name="min">Minutes</string>
+    <string name="sec">Seconds</string>
+    <string name="button">NEXT</string>
+</resources>
